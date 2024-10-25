@@ -1,0 +1,2222 @@
+[
+{
+    "laws": "IPC_140",
+    "description": "Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_127",
+    "description": "Receiving property taken by war or depredation mentioned in sections 125 And 126",
+    "Punishment": "7 Years + Fine + forfeiture of property"
+  },
+  {
+    "laws": "IPC_128",
+    "description": "Public servant voluntarily allowing prisoner of State or war in his custody to escape",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_129",
+    "description": "Public servant negligently suffering prisoner of State or war in his custody to escape",
+    "Punishment": "Simple Imprisonment 3 Years + Fine"
+  },
+  {
+    "laws": "IPC_130",
+    "description": "Aiding escape of, rescuing or harbouring, such prisoner, or offering Any resistance to the recapture of such prisoner",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_131",
+    "description": "Abetting mutiny, or attempting to seduce an officer, soldier sailor or airman from his allegiance or duty",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_132",
+    "description": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+    "Punishment": "Death or Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_133",
+    "description": "Abetment of an assault by An officer, soldier, sailor Or airman on his superior officer, when in the execution of his office",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_134",
+    "description": "Abetment of such assault, if the assault is committed",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_135",
+    "description": "Abetment of the desertion of an officer, soldier, sailor or airman",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_136",
+    "description": "Harbouring such an officer, soldier, sailor or airman who has deserted",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_122",
+    "description": "Collecting arms, etc., with The intention of waging War against the Government of India",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_137",
+    "description": "Deserter concealed on board merchant vessel, through negligence of master or person in charge thereof",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_138",
+    "description": "Abetment of act of insubordination by an officer, soldier, sailor or airman, if the offence be committed in consequence",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_121A",
+    "description": "Conspiring to commit certain offences against the State",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_122",
+    "description": "Collecting arms, etc., with The intention of waging War against the Government of India",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_123",
+    "description": "Concealing with intent to facilitate a design to wage War",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_124",
+    "description": "Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_124A",
+    "description": "Sedition",
+    "Punishment": "Imprisonment for Life + Fine or 3 Years + Fine or Fine"
+  },
+  {
+    "laws": "IPC_125",
+    "description": "Waging war against any Asiatic power in alliance or at peace with the Government of India, or abetting the waging of such war",
+    "Punishment": "Imprisonment for Life + Fine or 7 Years + Fine or Fine"
+  },
+  {
+    "laws": "IPC_126",
+    "description": "Committing depredation On the territories of any power in alliance or at peace with the Government of India",
+    "Punishment": "7 Years + Fine + forfeiture of property"
+  },
+  {
+    "laws": "IPC_140",
+    "description": "Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_153",
+    "description": "Wantonly giving provocation with intent to cause riot, If rioting be committed",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_153A",
+    "description": "Promoting enmity between classes",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_153AA",
+    "description": "Promoting enmity between classes",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_153B",
+    "description": "Imputations, assertions prejudicial to national integration",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_154",
+    "description": "Owner or occupier of land non giving information of riot, etc.",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_155",
+    "description": "Person for whose benefit or on whose behalf a riot takes place not using all lawful means to prevent it",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_156",
+    "description": "Agent of owner or occupier for whose benefit a riot is committed not using all lawful means to prevent it",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_157",
+    "description": "Harbouring persons hired for an unlawful assembly",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_158",
+    "description": "Being hired to take part in an unlawful assembly or riot",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_159",
+    "description": "Engaging in a public fight and disturbing peace is committing an affray with two or more individuals.",
+    "Punishment": "1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_145",
+    "description": "Joining or continuing in an unlawful assembly, Knowing that it has been commanded to disperse",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_160",
+    "description": "Committing affray",
+    "Punishment": "1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_161",
+    "description": "Being or expecting to be a public servant, and taking A gratification other than Legal remuneration in respect of an official act",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_162",
+    "description": "Taking a gratification in order, by corrupt or illegal means, to influence a public servant",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_163",
+    "description": "Taking a gratification for the exercise of personal influence with a public servant",
+    "Punishment": "Simple Imprisonment for 1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_164",
+    "description": "Abetment by public servant of the offences defined in the last two preceding clauses with reference to himself",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_165",
+    "description": "Public servant obtaining any valuable thing, without consideration, From a person concerned in any proceeding or business transacted by Such public servant",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_165A",
+    "description": "Punishment for abetment of offences punishable under section 161 or section 165",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_166",
+    "description": "Public servant disobeying a direction of the law with intent to cause injury to any person",
+    "Punishment": "Simple Imprisonment for 1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_166A",
+    "description": "Public servant disobeying direction under law",
+    "Punishment": "6 months to 2 years + Fine"
+  },
+  {
+    "laws": "IPC_166B",
+    "description": "anyone overseeing a hospital, whether public or private, and breaching the provisions of Section 357C of the Code of Criminal Procedure.",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_146",
+    "description": "Rioting",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_167",
+    "description": "Public servant framing an incorrect document with intent to cause injury",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_168",
+    "description": "Public servant unlawfully engaging in trade",
+    "Punishment": "Simple Imprisonment for 1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_169",
+    "description": "Public servant unlawfully buying or bidding for property",
+    "Punishment": "Simple Imprisonment for 2 Years or Fine or Both and confiscation of property, if purchased"
+  },
+  {
+    "laws": "IPC_170",
+    "description": "Personating a Public servant",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_171",
+    "description": "As described",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_171A",
+    "description": "Candidate\", \"Electoral right\" defined",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_171B",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_171C",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_171D",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_171E",
+    "description": "Bribery",
+    "Punishment": "1 Year or Fine or Both, or if treating only, fine only"
+  },
+  {
+    "laws": "IPC_147",
+    "description": "Rioting",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_171F",
+    "description": "Undue influence at an election",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_171G",
+    "description": "False statement in connection with an election",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_171H",
+    "description": "Illegal payments in connection with elections",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_171I",
+    "description": "Failure to keep election accounts",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_172",
+    "description": "Absconding to avoid service of summons or other proceeding from a public servant",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_173",
+    "description": "Preventing the service or The affixing of any summons of notice, or the removal of it when it has been affixed, or preventing a reclamation",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_174",
+    "description": "Not obeying a legal order to attend at a certain place in person or by agent, or departing therefrom without authority",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_174A",
+    "description": "Failure to appear at specified place and specified time as required by a proclamation published under Sub-Section 1 of section 82 of this Code",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_175",
+    "description": "Intentionally omitting to produce a document to a public servant by a person legally bound to produce deliver such document",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_176",
+    "description": "Intentionally omitting to Give notice or information to a public servant by a person legally bound to Give such notice or information",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_148",
+    "description": "Rioting armed with deadly Weapon",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_177",
+    "description": "Knowingly furnishing false information to a public servant",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_178",
+    "description": "Refusing oath when duly required to take oath by a public servant",
+    "Punishment": "Simple Imprisonment for 6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_179",
+    "description": "Being legally bound to state truth, and refusing to answer questions",
+    "Punishment": "Simple Imprisonment for 6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_180",
+    "description": "Refusing to sign statement made to a public servant when legally required to do so",
+    "Punishment": "Simple Imprisonment for 3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_181",
+    "description": "Knowingly stating to a public servant, on oath as True that which is false",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_182",
+    "description": "Giving false information to a public servant in order to cause him to use his lawful power to the injury or annoyance of any person",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_183",
+    "description": "Resistance to the taking of property by the lawful authority of a public servant",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_184",
+    "description": "Obstructing sale of property offered for sale by authority of a public servant",
+    "Punishment": "1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_185",
+    "description": "Bidding, by a person under a legal incapacity to purchase it, for property at a lawfully authorized Sale, or bidding without intending to perform the obligations incurred thereby",
+    "Punishment": "1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_186",
+    "description": "Obstructing public servant in discharge of his public functions",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_149",
+    "description": "If an offence be committed by any member of an unlawful assembly, every other member of such assembly shall be guilty of the offence",
+    "Punishment": "Same As Offence"
+  },
+  {
+    "laws": "IPC_187",
+    "description": "Omission to assist public servant when bound by law to give such assistance",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_188",
+    "description": "Disobedience to an order lawfully promulgated by a public servant, If such disobedience causes obstruction, annoyance or injury to persons lawfully employed",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_189",
+    "description": "Threatening a public servant with injury to him or one in whom he is interested, to induce him to do or forbear to do any official act",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_190",
+    "description": "Threatening any person to induce him to refrain From making a legal application for protection From injury",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_150",
+    "description": "Hiring, engaging or employing persons to Take part in an unlawful assembly",
+    "Punishment": "Same as a Member and for Offence by any Member"
+  },
+  {
+    "laws": "IPC_151",
+    "description": "Knowingly joining or continuing in any assembly of five or more Persons after it has been commanded to disperse",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_152",
+    "description": "Assaulting or obstructing public servant when suppressing riot, etc.",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_224",
+    "description": "Resistance or obstruction by a person to his lawful apprehension",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_225",
+    "description": "Resistance or obstruction to the lawful apprehension of any person, or, rescuing him from lawful custody",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_225A",
+    "description": "Omission to apprehend, or sufferance of escape on part of public servant, in cases not otherwise provided for, In case of intentional omission or sufferance",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_225B",
+    "description": "Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_226",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_191",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_192",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_193",
+    "description": "Giving or fabricating false evidence in a judicial proceeding",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_194",
+    "description": "Giving or fabricating false evidence with intent to cause any person to be convicted of a capital offence",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_195",
+    "description": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or with imprisonment for 7 Years or upwards",
+    "Punishment": "Same As Offence"
+  },
+  {
+    "laws": "IPC_195A",
+    "description": "Threatening any person to give false evidence",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_196",
+    "description": "Using in a judicial proceeding evidence known to be false or fabricated",
+    "Punishment": "As For False Evidence"
+  },
+  {
+    "laws": "IPC_197",
+    "description": "Knowingly issuing or signing a false certificate relating to any fact of which such certificate is by law admissible in evidence",
+    "Punishment": "As for False Evidence"
+  },
+  {
+    "laws": "IPC_198",
+    "description": "Using as a true certificate one known to be false in a material point",
+    "Punishment": "As for False Evidence"
+  },
+  {
+    "laws": "IPC_199",
+    "description": "False statement made in any declaration which by law receivable as evidence",
+    "Punishment": "As for False Evidence"
+  },
+  {
+    "laws": "IPC_200",
+    "description": "Using as true any such declaration known to be false",
+    "Punishment": "As for False Evidence"
+  },
+  {
+    "laws": "IPC_201",
+    "description": "Causing disappearance of evidence of an offence committed, or giving false information touching it to screen the offender, If a capital offence",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_202",
+    "description": "Intentional omission to give information of an offence by a person legally bound to inform",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_203",
+    "description": "Giving false information respecting an offence committed",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_204",
+    "description": "Secreting or destroying any document to prevent its production as evidence",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_205",
+    "description": "False personation for the purpose of any act or proceeding in a suit or criminal prosecution, or for becoming bail or security",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_206",
+    "description": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture, or in satisfaction of a Fine under sentence, or in execution of a decree",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_207",
+    "description": "Claiming property without right, or practicing deception touching any right to it, to prevent its being taken as a forfeiture or in satisfaction of a Fine under sentence, or in execution of a decree",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_208",
+    "description": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed after it has been satisfied",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_209",
+    "description": "False claim in a court of Justice",
+    "Punishment": "2 Years + Fine"
+  },
+  {
+    "laws": "IPC_210",
+    "description": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed after it has been satisfied",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_211",
+    "description": "False charge of offence made with intent to injure",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_212",
+    "description": "Harbouring an offender, If the offence be capital",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_213",
+    "description": "Taking gift, etc., to screen an offender from punishment, If the offence be capital",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_214",
+    "description": "Offering gift or restoration of property in consideration of screening offender, If the offence be capital",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_215",
+    "description": "Taking gift to help to recover movable property of which a person has been deprived by an offence without causing apprehension of offender",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_216",
+    "description": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, If the offence be capital",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_216A",
+    "description": "Harbouring robbers or dacoits",
+    "Punishment": "Rigorous Imprisonment for 7 Years and Fine"
+  },
+  {
+    "laws": "IPC_216B",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_217",
+    "description": "Public servant disobeying a direction of law with intent to save person from punishment, or property from forfeiture",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_218",
+    "description": "Public servant framing an incorrect record or writing with intent to save person from punishment, or property from forfeiture",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_219",
+    "description": "Public servant in a judicial proceeding corruptly Making and pronouncing an order, report, Verdict, or decision which he knows to be contrary to law",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_220",
+    "description": "Commitment for trial or confinement by a person Having authority, who Knows that he is Acting contrary to law",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_221",
+    "description": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend an offender, If the offence be Capital",
+    "Punishment": "7 Years with or without Fine"
+  },
+  {
+    "laws": "IPC_222",
+    "description": "Intentional omission to apprehend on the part of A public servant bound by law to apprehend person under sentence of a court of Justice, If under sentence of death",
+    "Punishment": "Imprisonment for Life or 14 Years with or without Fine"
+  },
+  {
+    "laws": "IPC_223",
+    "description": "Escape from confinement negligently suffered by a public servant",
+    "Punishment": "Simple Imprisonment for 2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_227",
+    "description": "Violation of condition of remission of punishment",
+    "Punishment": "Original Sentence, minus time already served"
+  },
+  {
+    "laws": "IPC_228",
+    "description": "Intentional insult or interruption to a public servant sitting in any stage of a judicial proceeding",
+    "Punishment": "Simple Imprisonment for 6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_228A",
+    "description": "Disclosure of identity of the victim of certain offences, etc.",
+    "Punishment": "2 Years + Fine"
+  },
+  {
+    "laws": "IPC_229",
+    "description": "Personation of a juror or assessor",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_229A",
+    "description": "Failure by person released on bail or bond to appear in Court",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_230",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_231",
+    "description": "Counterfeiting, or performing any part of the process of counterfeiting coin",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_232",
+    "description": "Counterfeiting, or performing any part of the process of counterfeiting coin",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_233",
+    "description": "Making, buying or selling instrument for the purpose of counterfeiting coin",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_234",
+    "description": "Making, buying or selling instrument for the purpose of counterfeiting Indian coin",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_235",
+    "description": "Possession of instrument or material for the purpose of using the same for counterfeiting coin",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_236",
+    "description": "Abetting, in India, the counterfeiting, out of India, of coin",
+    "Punishment": "The punishment provided for abetting the counterfeiting of such coin within India"
+  },
+  {
+    "laws": "IPC_237",
+    "description": "Import or export of counterfeit coin, knowing the same to be counterfeit",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_238",
+    "description": "Import or export of counterfeit of Indian coin, knowing the same to be counterfeit",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_239",
+    "description": "Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_240",
+    "description": "Same with respect to Indian coin",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_241",
+    "description": "Knowingly delivering to another any counterfeit coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit",
+    "Punishment": "2 Years or Fine or 10 x Value of Coin or Both"
+  },
+  {
+    "laws": "IPC_242",
+    "description": "Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_243",
+    "description": "Possession of Indian coin by a person who knew it to be counterfeit when he became possessed thereof",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_244",
+    "description": "Person employed in a Mint causing coin to be of a different weight or composition from that fixed by law",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_245",
+    "description": "Unlawfully taking from a Mint any coining instrument",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_246",
+    "description": "Fraudulently diminishing the weight or altering the composition of any coin",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_247",
+    "description": "Fraudulently diminishing the weight or altering the composition of Indian coin",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_248",
+    "description": "Altering appearance of any coin with intent that it shall pass as a coin of a different description",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_249",
+    "description": "Altering appearance of Indian coin with intent that it shall pass as a coin of a different description",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_250",
+    "description": "Delivery to another of coin possessed with the knowledge that it is altered",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_251",
+    "description": "Delivery of Indian coin possessed with the knowledge that it is altered",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_252",
+    "description": "Possession of altered coin by a person who knew it to be altered when he became possessed thereof",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_253",
+    "description": "Possession of Indian coin by a person who knew it to be altered when he became possessed thereof",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_254",
+    "description": "Delivery to another of coin as genuine which, when first possessed, the deliverer did not know to be altered",
+    "Punishment": "2 Years or Fine or 10 x Value of Coin"
+  },
+  {
+    "laws": "IPC_255",
+    "description": "Counterfeiting a Government stamp",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_256",
+    "description": "Having possession of an instrument or material for the purpose of counterfeiting a Government stamp",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_257",
+    "description": "Making, buying or selling instrument for the purpose of counterfeiting a Government stamp",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_258",
+    "description": "Sale of counterfeit Government stamp",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_259",
+    "description": "Having possession of a counterfeit Government stamp",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_260",
+    "description": "Using as genuine a Government stamp known to be counterfeit",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_261",
+    "description": "Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_262",
+    "description": "Using a Government stamp known to have been before used",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_263",
+    "description": "Erasure of mark denoting that stamps have been used",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_263A",
+    "description": "Fictitious stamps",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_264",
+    "description": "Fraudulent use of false instrument for weighing",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_265",
+    "description": "Fraudulent use of false weight or measure",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_266",
+    "description": "Being in possession of false weights or measures for fraudulent use",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_267",
+    "description": "Making or selling false weights or measures for fraudulent use",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_268",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_269",
+    "description": "Negligently doing any act known to be likely to spread infection of any disease dangerous to life",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_270",
+    "description": "Malignantly doing any act known to be likely to spread infection of any disease dangerous to life",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_271",
+    "description": "Knowingly disobeying any quarantine rule",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_272",
+    "description": "Adulterating food or drink intended for sale, so as to make the same noxious",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_273",
+    "description": "Selling any food or drink as food and drink, knowing the same to be noxious",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_274",
+    "description": "Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_275",
+    "description": "Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_276",
+    "description": "Knowingly selling or issuing from a dispensary any drug or medical preparation as a different drug or medical preparation",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_277",
+    "description": "Defiling the water of a public spring or reservoir",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_278",
+    "description": "Making atmosphere noxious to health",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_279",
+    "description": "Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_280",
+    "description": "Navigating any vessel so rashly or negligently as to endanger human life, etc.",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_281",
+    "description": "Exhibition of a false light, mark or buoy",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_282",
+    "description": "Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his life",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_283",
+    "description": "Causing danger, obstruction or, injury in any public way or line of navigation",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_284",
+    "description": "Dealing with any poisonous substance so as to endanger human life, etc.",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_285",
+    "description": "Dealing with fire or any combustible matter so as to endanger human life, etc.",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_286",
+    "description": "So dealing with any explosive substance",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_287",
+    "description": "So dealing with any machinery",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_288",
+    "description": "A person omitting to guard against probable danger to human life by the fall of any building over which he has a right entitling him to pull it down or repair it",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_289",
+    "description": "A person omitting to take order with any animal in his possession, so as to guard against danger to human life, or of grievous hurt, from such animal",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_290",
+    "description": "Committing a public nuisance",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_291",
+    "description": "Committing a nuisance after injunction to discontinue",
+    "Punishment": "Simple Imprisonment for 6 Months, or Fine, or Both"
+  },
+  {
+    "laws": "IPC_292",
+    "description": "Sale, etc., of obscene books, etc.",
+    "Punishment": "First conviction 2 Years + Fine, then 5 Years + Fine"
+  },
+  {
+    "laws": "IPC_293",
+    "description": "Sale etc., of obscene objects to young persons",
+    "Punishment": "First conviction 3 Years + Fine, then 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_294",
+    "description": "Obscene Songs",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_294A",
+    "description": "Keeping a lottery office",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_295",
+    "description": "Destroying, damaging or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_295A",
+    "description": "Maliciously insulting the religions or the religious beliefs of any class",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_296",
+    "description": "Causing a disturbance to an assembly engaged in religious worship",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_297",
+    "description": "Trespassing in place of worship or sepulchre, disturbing funeral with intention to wound the feeling or to insult the religion of any person, or offering indignity to a human corpse",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_298",
+    "description": "Uttering any word or making any sound in the hearing or making any gesture, or placing any object in the sight of any person, with intention to wound his religious feelings",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_299",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_29A",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_300",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_301",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_302",
+    "description": "Murder",
+    "Punishment": "Death or Imprisonment for Life + Fine"
+  },
+  {
+    "laws": "IPC_303",
+    "description": "Murder by a person under Sentence of imprisonment for life",
+    "Punishment": "Death"
+  },
+  {
+    "laws": "IPC_304",
+    "description": "Culpable homicide not amounting to murder, If act by which the death is caused is done with intention of causing death, etc.",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_304A",
+    "description": "Causing death by rash or negligent act",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_304B",
+    "description": "Dowry death",
+    "Punishment": "Imprisonment for not less than 7 Years, but upto Life"
+  },
+  {
+    "laws": "IPC_305",
+    "description": "Abetment of suicide committed by child or insane or delirious person or an idiot, or a person intoxicated",
+    "Punishment": "Death or Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_306",
+    "description": "Abetting the Commission of suicide",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_307",
+    "description": "Attempt to murder",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_308",
+    "description": "Attempt to commit culpable homicide",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_309",
+    "description": "Attempt to commit suicide",
+    "Punishment": "Simple Imprisonment for 1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_310",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_311",
+    "description": "OffencePunishment",
+    "Punishment": "Being a thug"
+  },
+  {
+    "laws": "IPC_312",
+    "description": "Causing miscarriage",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_313",
+    "description": "Causing miscarriage without womanâ€™s consent",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_314",
+    "description": "Death caused by an act done with intent to cause miscarriage",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_315",
+    "description": "Act done with intent to prevent a child being born alive, or to cause it to die after its birth",
+    "Punishment": "10 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_316",
+    "description": "Causing death of a quick unborn child by an act amounting to culpable homicide",
+    "Punishment": "10 Years and Fine"
+  },
+  {
+    "laws": "IPC_317",
+    "description": "Exposure of a child under 12 Years of age by parent or person having care of it with intention of wholly abandoning it",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_318",
+    "description": "Concealment of birth by secret disposal of dead body",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_319",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_320",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_321",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_322",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_323",
+    "description": "Voluntarily causing hurt",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_324",
+    "description": "Voluntarily causing hurt by dangerous weapons or means",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_325",
+    "description": "Voluntarily causing grievous hurt",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_326",
+    "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_326A",
+    "description": "Voluntarily causing grievous hurt by use of acid, etc.",
+    "Punishment": "10 years to Life + Fine paid to the victim"
+  },
+  {
+    "laws": "IPC_326B",
+    "description": "Voluntarily throwing or attempting to throw acid",
+    "Punishment": "5 to 7 years + Fine"
+  },
+  {
+    "laws": "IPC_327",
+    "description": "Voluntarily causing hurt to extort property or a valuable security, or to constrain to do anything which is illegal or which may facilitate the commission of an offence",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_328",
+    "description": "Administering stupefying drug with intent to cause hurt, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_329",
+    "description": "Voluntarily causing grievous hurt to extort property or a valuable security, or to constrain to do anything which is illegal, or which may facilitate the commission of an offence",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_330",
+    "description": "Voluntarily causing hurt to extort confession or information of property, etc.",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_331",
+    "description": "Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_332",
+    "description": "Voluntarily causing hurt to deter public servant from his duty",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_333",
+    "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_334",
+    "description": "Voluntarily causing hurt on grave and sudden provocation, not intending to hurt any other than the person who gave the provocation",
+    "Punishment": "1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_335",
+    "description": "Causing grievous hurt on Grave and sudden provocation, not intending to hurt and other than the person who gave the provocation",
+    "Punishment": "4 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_336",
+    "description": "Doing any act which endangers human life or the personal safety of others",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_337",
+    "description": "Causing hurt by an act which endangers human life, etc.",
+    "Punishment": "6 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_338",
+    "description": "Causing grievous hurt by an act which endangers human life, etc.",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_339",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_340",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_341",
+    "description": "Wrongfully restraining any person",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_342",
+    "description": "Wrongfully confining any person",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_343",
+    "description": "Wrongfully confining for 3 or more days",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_344",
+    "description": "Wrongfully confining for 10 or more days",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_345",
+    "description": "Keeping any person in wrongful confinement, knowing that a writ has been issued for his liberation",
+    "Punishment": "2 Years in addition to imprisonment under any other section"
+  },
+  {
+    "laws": "IPC_346",
+    "description": "Wrongful confinement in secret",
+    "Punishment": "2 Years in addition to imprisonment under any other section"
+  },
+  {
+    "laws": "IPC_347",
+    "description": "Wrongful confinement for the purpose of extorting property, or constraining to an illegal act, etc.",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_348",
+    "description": "Wrongful confinement for the purpose of extorting confession or information, or of compelling restoration of property etc.",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_349",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_350",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_351",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_352",
+    "description": "Assault or use of criminal force otherwise than on grave provocation",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_353",
+    "description": "Assault or use of criminal force to deter a public servant from discharge of his duty",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_354",
+    "description": "Assault or use of criminal force to woman with intent to outrage her modesty",
+    "Punishment": "1 to 5 years + Fine"
+  },
+  {
+    "laws": "IPC_354A",
+    "description": "Sexual harassment of the nature of unwelcome physical contact and advances or a demand or request for sexual favours or showing pornography",
+    "Punishment": "Upto 3 years or Fine or Both"
+  },
+  {
+    "laws": "IPC_354B",
+    "description": "Criminal force to woman with intent to disrobe",
+    "Punishment": "3 to 7 years + Fine"
+  },
+  {
+    "laws": "IPC_354C",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_354D",
+    "description": "Stalking",
+    "Punishment": "Upto 3 years + Fine for first conviction"
+  },
+  {
+    "laws": "IPC_355",
+    "description": "Assault or criminal force with intent to dishonour a person, otherwise than on grave and sudden provocation",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_356",
+    "description": "Assault or criminal force in attempt to commit theft of property worn or carried by a person",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_357",
+    "description": "Assault or use of criminal Force in attempt wrongfully to confine a person",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_358",
+    "description": "Assault or use of criminal force on grave and sudden provocation",
+    "Punishment": "Simple Imprisonment for 1 Month or Fine or Both"
+  },
+  {
+    "laws": "IPC_359",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_360",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_361",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_362",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_363",
+    "description": "Kidnapping",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_363A",
+    "description": "Kidnapping or obtaining the custody of a minor in order that such minor may be employed or used for purposes of begging",
+    "Punishment": "10 Years + Fine."
+  },
+  {
+    "laws": "IPC_364",
+    "description": "Kidnapping or abducting in order to murder",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_364A",
+    "description": "Kidnapping for ransom, etc.",
+    "Punishment": "Death or Life + Fine"
+  },
+  {
+    "laws": "IPC_365",
+    "description": "Kidnapping or abducting with intent secretly and wrongfully to confine a person",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_366",
+    "description": "Kidnapping or abducting a woman to compel her marriage or to cause her defilement etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_366A",
+    "description": "Procuration of minor girl",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_366B",
+    "description": "Importation of girl from foreign country",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_367",
+    "description": "Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_368",
+    "description": "Concealing or keeping in confinement a kidnapped person",
+    "Punishment": "As for Kidnapping or Abduction"
+  },
+  {
+    "laws": "IPC_369",
+    "description": "Kidnapping or abducting a child with intent to take property from the person of such child",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_370",
+    "description": "Trafficking of person",
+    "Punishment": "7 to 10 years + Fine"
+  },
+  {
+    "laws": "IPC_370A",
+    "description": "Exploitation of a trafficked child",
+    "Punishment": "5 to 7 years + Fine"
+  },
+  {
+    "laws": "IPC_371",
+    "description": "Habitual dealing in slaves",
+    "Punishment": "Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_372",
+    "description": "Selling or letting to hire a minor for purposes of prostitution, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_373",
+    "description": "Buying or obtaining possession of a minor for the same purposes",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_374",
+    "description": "Unlawful compulsory labour",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_375",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_376",
+    "description": "Rape",
+    "Punishment": "Rigorous Imprisonment for 10 years to Imprisonment for Life + Fine"
+  },
+  {
+    "laws": "IPC_376A",
+    "description": "Person committing an offence of rape and inflicting injury which causes death or causes the woman to be in a persistent vegetative state",
+    "Punishment": "Rigorous Imprisonment for 20 years to Imprisonment for Natural-Life or Death"
+  },
+  {
+    "laws": "IPC_376AB",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_376B",
+    "description": "Sexual intercourse by husband upon his wife during separation",
+    "Punishment": "2 to 7 years + Fine"
+  },
+  {
+    "laws": "IPC_376C",
+    "description": "Sexual intercourse by a person in authority",
+    "Punishment": "Rigorous Imprisonment for 5 to 10 years + Fine"
+  },
+  {
+    "laws": "IPC_376D",
+    "description": "Gang rape",
+    "Punishment": "Rigorous Imprisonment for 20 years to Imprisonment for Natural-Life + Fine paid to the victim"
+  },
+  {
+    "laws": "IPC_376DA",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_376DB",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_376E",
+    "description": "Repeat offenders",
+    "Punishment": "Imprisonment for Natural-Life or Death"
+  },
+  {
+    "laws": "IPC_377",
+    "description": "Unnatural offences",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_378",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_379",
+    "description": "Theft",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_380",
+    "description": "Theft in a building, tent or vessel",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_381",
+    "description": "Theft by clerk or servant of property in possession of master or employer",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_382",
+    "description": "Theft, after preparation having been made for causing death, or hurt, or restraint or fear of death, or of hurt or of restraint, in order to the committing of such theft, or to retiring after committing it, or to retaining property taken by it",
+    "Punishment": "Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_383",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_384",
+    "description": "Extortion",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_385",
+    "description": "Putting or attempting to put in fear of injury, in order to commit extortion",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_386",
+    "description": "extortion by putting a person in fear of death or grievous hurt",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_387",
+    "description": "Putting or attempting to put a person in fear of death or grievous hurt in order to commit extortion",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_388",
+    "description": "Extortion by threat of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 Years.",
+    "Punishment": "10 Years + Fine."
+  },
+  {
+    "laws": "IPC_389",
+    "description": "Putting a person in fear of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 Years in order to commit extortion.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_390",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_391",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_392",
+    "description": "Robbery",
+    "Punishment": "Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_393",
+    "description": "Attempt to commit robbery",
+    "Punishment": "Rigorous Imprisonment for 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_394",
+    "description": "Person voluntarily causing hurt in committing or attempting to commit robbery, or any other person jointly concerned in such robbery",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_395",
+    "description": "Dacoity",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_396",
+    "description": "Murder in Dacoity",
+    "Punishment": "Death, Imprisonment for Life, or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_397",
+    "description": "Robber or Dacoity, with attempt to cause death or grievous hurt",
+    "Punishment": "Rigorous Imprisonment for not less than 7 Years"
+  },
+  {
+    "laws": "IPC_398",
+    "description": "Attempt to commit robbery or Dacoity when armed with deadly weapons",
+    "Punishment": "Rigorous Imprisonment for not less than 7 Years"
+  },
+  {
+    "laws": "IPC_399",
+    "description": "Making preparation to commit Dacoity",
+    "Punishment": "Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_400",
+    "description": "Belonging to a gang of persons associated for the purpose of habitually committing Dacoity",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_401",
+    "description": "Belonging to a wandering gang of persons associated for the purpose of habitually committing thefts",
+    "Punishment": "Rigorous Imprisonment for 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_402",
+    "description": "Being one of five or more persons assembled for the purpose of committing Dacoity",
+    "Punishment": "Rigorous Imprisonment for 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_403",
+    "description": "Dishonest misappropriation of movable property, or converting it to oneâ€™s own use",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_404",
+    "description": "Dishonest misappropriation of property, knowing that it was in possession of a deceased person at his death, and that it has not since been in the possession of any person legally entitled to it",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_405",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_406",
+    "description": "Criminal breach of trust",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_407",
+    "description": "Criminal breach of trust by a carrier, wharfinger, etc.",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_408",
+    "description": "Criminal breach of trust by a clerk or servant",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_409",
+    "description": "Criminal breach of trust by public servant or by banker, merchant or agent, etc.",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_410",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_411",
+    "description": "Dishonestly receiving stolen property knowing it to be stolen",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_412",
+    "description": "Dishonestly receiving stolen property, knowing that it was obtained by Dacoity",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_413",
+    "description": "Habitually dealing in stolen property",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_414",
+    "description": "Assisting in concealment or disposal of stolen property, knowing it to be stolen",
+    "Punishment": "3 Years, or Fine, or Both"
+  },
+  {
+    "laws": "IPC_415",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_416",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_417",
+    "description": "Cheating",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_418",
+    "description": "Cheating a person whose interest the offender was bound, either by law or by legal contract, to protect",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_419",
+    "description": "Cheating by personation",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_420",
+    "description": "Cheating and there by dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_421",
+    "description": "Fraudulent removal or concealment of property etc., to prevent distribution among creditors",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_422",
+    "description": "Fraudulently preventing from being made available for his creditors a debt or demand due to the offender",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_423",
+    "description": "Fraudulent execution of deed of transfer containing a false statement of consideration",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_424",
+    "description": "Fraudulent removal or concealment of property of himself or any other person or assisting in the doing thereof, or dishonestly releasing any demand or claim to which he is entitled",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_425",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_426",
+    "description": "Mischief",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_427",
+    "description": "Mischief, and thereby causing damage to the amount of 50 rupees or upwards",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_428",
+    "description": "Mischief by killing, poisoning, maiming or rendering useless any animal of the value of 10 rupees or upwards",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_429",
+    "description": "Mischief by killing poisoning maiming or rendering useless any elephant, camel, horse, etc., whatever may be its value or any other animal of the value of 50 rupees or upwards",
+    "Punishment": "5 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_430",
+    "description": "Mischief by causing diminution of supply of water for agricultural purposes, etc.",
+    "Punishment": "5 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_431",
+    "description": "Mischief by injury to public road, bridge, navigable river, or navigable channel and rendering it impassable or less safe for travelling or conveying property",
+    "Punishment": "5 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_432",
+    "description": "Mischief by causing inundation or obstruction to public drainage attended with damage",
+    "Punishment": "5 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_433",
+    "description": "Mischief by destroying or moving or rendering less useful a lighthouse or sea-mark, or by exhibiting false lights",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_434",
+    "description": "Mischief by destroying or moving, etc., a landmark fixed by public authority",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_435",
+    "description": "Mischief by fire or explosive substance with intent to cause damage to an amount of 100 rupees or upwards, or, in case of agricultural produce, 10 rupees or upwards",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_436",
+    "description": "Mischief by fire or explosive substance with intent to destroy house etc.",
+    "Punishment": "Imprisonment for Life, or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_437",
+    "description": "Mischief with intent to destroy or make unsafe A decked vessel or a vessel of 20 tones burden",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_438",
+    "description": "The mischief described in the last section when committed by fire or any explosive substance",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_439",
+    "description": "Running vessel ashore with intent to commit theft, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_440",
+    "description": "Mischief committed after preparation made for causing death, or hurt, etc.",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_441",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_442",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_443",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_444",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_445",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_446",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_447",
+    "description": "Criminal trespass",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_448",
+    "description": "House-trespass",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_449",
+    "description": "House-trespass in order to the commission of an offence punishable with death",
+    "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_450",
+    "description": "House-trespass in order to the commission of an Offence punishable with imprisonment for life",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_451",
+    "description": "House-trespass in order to the commission of an Offence punishable with imprisonment",
+    "Punishment": "2 Years + Fine"
+  },
+  {
+    "laws": "IPC_452",
+    "description": "House-trespass, having made preparation for causing hurt, assault, etc.",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_453",
+    "description": "Lurking house trespass or house-breaking",
+    "Punishment": "2 Years + Fine"
+  },
+  {
+    "laws": "IPC_454",
+    "description": "Lurking house-trespass or house-breaking in order to the commission of an offence punishable with imprisonment",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_455",
+    "description": "Lurking house-trespass or house-breaking after preparation made for causing hurt, assault, etc.",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_456",
+    "description": "Lurking house-trespass or house-breaking by night",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_457",
+    "description": "Lurking house-trespass or house-breaking by night in order to the commission of an offence punishable with imprisonment",
+    "Punishment": "5 Years + Fine"
+  },
+  {
+    "laws": "IPC_458",
+    "description": "Lurking house-trespass or house-breaking by night, after preparation made for causing hurt, etc.",
+    "Punishment": "14 Years + Fine"
+  },
+  {
+    "laws": "IPC_459",
+    "description": "Grievous hurt caused whilst committing lurking house-trespass or house-breaking",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_460",
+    "description": "Death or grievous hurt caused by one of several persons jointly concerned in house-breaking by Night, etc.",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_461",
+    "description": "Dishonestly breaking Open or unfastening any closed receptacle containing or supposed to contain property",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_462",
+    "description": "Being entrusted with any closed receptacle containing or supposed to contain any property, and fraudulently opening the same",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_463",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_464",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_465",
+    "description": "Forgery",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_466",
+    "description": "Forgery of a record of a court of Justice or of a Registrar of Births, etc., kept by a public servant",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_467",
+    "description": "Forgery of a valuable security, will or authority to make or transfer any valuable security, or to receive any money, etc.",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_468",
+    "description": "Forgery for the purpose of cheating",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_469",
+    "description": "Forgery for the purpose of harming the reputation of any person or knowing that it is likely to be used for that purpose",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_470",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_471",
+    "description": "Using as genuine a forged document which is known to be forged",
+    "Punishment": "Same as for Forgery of such document"
+  },
+  {
+    "laws": "IPC_472",
+    "description": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable under section 467 of the Indian Penal Code, or possessing with like intent any such seal, plate, etc. knowing the same to be counterfeit",
+    "Punishment": "Imprisonment for Life or 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_473",
+    "description": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable otherwise than under section 467 of the Indian Penal Code, or possessing with like intent any such seal plate, etc., knowing the same to be counterfeit",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_474",
+    "description": "Having possession of a document, knowing it to be forged, with intent to use it as genuine; If the document is one of the description mentioned in section 466 of the Indian Penal Code",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_475",
+    "description": "Counterfeiting a device or mark used for authenticating documents described in section 467 of the Indian Penal Code, or possessing counterfeit marked material",
+    "Punishment": "Imprisonment for Life or 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_476",
+    "description": "Counterfeiting a device or mark used for authenticating documents other than those described in section 467 of the Indian Penal Code, or possessing counterfeit marked material",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_477",
+    "description": "Fraudulently destroying or defacing, or attempting to destroy or deface, or secreting, a will, etc.",
+    "Punishment": "Imprisonment for Life or 7 Years + Fine"
+  },
+  {
+    "laws": "IPC_477A",
+    "description": "Falsification of accounts",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_478",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_479",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_480",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_481",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_482",
+    "description": "Using a false property mark with intent to deceive or injure any person",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_483",
+    "description": "Counterfeiting a property mark used by another, with intent to cause damage or injury",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_484",
+    "description": "Counterfeiting a property mark used by a public servant, or any mark used by him to denote the manufacture, quality, etc., of any property",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_485",
+    "description": "Fraudulently making or having possession of any die, plate or other instrument for counterfeiting any public or private property mark",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_486",
+    "description": "Knowingly selling goods marked with a counterfeit property mark",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_487",
+    "description": "Fraudulently marking a false mark upon any package or receptacle containing goods, with intent to cause it to be believed that it contains goods which it does not contain, etc.",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_488",
+    "description": "Making use of any such false mark",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_489",
+    "description": "Removing destroying or defacing property mark with intent to cause injury",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_489A",
+    "description": "Counterfeiting currency-notes or bank-notes",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_489B",
+    "description": "Using as genuine forged or counterfeit currency-notes or bank-notes",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_489C",
+    "description": "Possession of forged or counterfeit currency-notes or bank-notes",
+    "Punishment": "7 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_489D",
+    "description": "Making or possessing machinery, instrument or material for forging or counterfeiting currency-notes or bank-notes",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_489E",
+    "description": "Making or using documents resembling currency-notes or bank-notes",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_490",
+    "description": "On refusal to disclose the name and address of the printer",
+    "Punishment": "Fine"
+  },
+  {
+    "laws": "IPC_491",
+    "description": "Being bound to attend on or supply the wants of a person who is helpless from youth, unsoundness of mind or disease, and voluntarily omitting to do so",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_492",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_493",
+    "description": "A man by deceit causing a woman not lawfully married to him to believe that she is lawfully married to him and to cohabit with him in that belief",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_494",
+    "description": "Marrying again during the life-time of a husband or wife",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_495",
+    "description": "Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted",
+    "Punishment": "10 Years + Fine"
+  },
+  {
+    "laws": "IPC_496",
+    "description": "A person with fraudulent intention going through the ceremony of being married knowing that he is not thereby lawfully married",
+    "Punishment": "7 Years + Fine"
+  },
+  {
+    "laws": "IPC_497",
+    "description": "Adultery",
+    "Punishment": "5 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_498",
+    "description": "Enticing or taking away or detaining with a criminal intent a married woman",
+    "Punishment": "2 Years and Fine"
+  },
+  {
+    "laws": "IPC_498A",
+    "description": "Punishment for subjecting a married woman to Cruelty",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_499",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_500",
+    "description": "Defamation against the President or the Vice-president or the Governor of a State or Administrator of a Union Territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+    "Punishment": "Simple Imprisonment for 2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_501",
+    "description": "Printing or engraving matter knowing it to be defamatory against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+    "Punishment": "Simple Imprisonment for 2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_502",
+    "description": "Sale of printed or engraved substance containing defamatory matter, knowing it to contain such matter against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+    "Punishment": "Simple Imprisonment for 2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_503",
+    "description": "nan",
+    "Punishment": "nan"
+  },
+  {
+    "laws": "IPC_504",
+    "description": "Insult intended to provoke breach of the peace",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_505",
+    "description": "False statement, rumour, etc., circulated with intent to cause mutiny or offence against the public peace",
+    "Punishment": "3 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_506",
+    "description": "Criminal intimidation",
+    "Punishment": "2 Years or Fine or Both"
+  },
+  {
+    "laws": "IPC_507",
+    "description": "Criminal intimidation by Anonymous communication or having taken precaution to conceal whence the threat comes",
+    "Punishment": "As in Section 506 + 2 Years"
+  },
+  {
+    "laws": "IPC_508",
+    "description": "Act caused by inducing a person to believe that he will be rendered an object of Divine displeasure",
+    "Punishment": "1 Year or Fine or Both"
+  },
+  {
+    "laws": "IPC_509",
+    "description": "Uttering any word or making any gesture intended to insult the modesty of a woman, etc.",
+    "Punishment": "Simple imprisonment for 3 years + Fine"
+  },
+  {
+    "laws": "IPC_510",
+    "description": "Appearing in a public Place, etc., in a State of intoxication, and causing annoyance to any person",
+    "Punishment": "Simple Imprisonment for 24 hours or Fine or Both"
+  },
+  {
+    "laws": "IPC_511",
+    "description": "Attempting to commit offences punishable with imprisonment for life, or imprisonment, and in such attempt doing any act towards the commission of the offence",
+    "Punishment": "Imprisonment for Life or Imprisonment not exceeding, half of the longest term provided for the Offence, or Fine, or Both"
+  }
+]
