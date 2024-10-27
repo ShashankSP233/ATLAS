@@ -1,0 +1,46 @@
+[
+{
+    "laws": "IPC_140",
+    "description": "Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",
+    "Punishment": "3 Months or Fine or Both"
+  },
+  {
+    "laws": "IPC_127",
+    "description": "Receiving property taken by war or depredation mentioned in sections 125 And 126",
+    "Punishment": "7 Years + Fine + forfeiture of property"
+  },
+  {
+    "laws": "IPC_128",
+    "description": "Public servant voluntarily allowing prisoner of State or war in his custody to escape",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_129",
+    "description": "Public servant negligently suffering prisoner of State or war in his custody to escape",
+    "Punishment": "Simple Imprisonment 3 Years + Fine"
+  },
+  {
+    "laws": "IPC_130",
+    "description": "Aiding escape of, rescuing or harbouring, such prisoner, or offering Any resistance to the recapture of such prisoner",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_131",
+    "description": "Abetting mutiny, or attempting to seduce an officer, soldier sailor or airman from his allegiance or duty",
+    "Punishment": "Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_132",
+    "description": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+    "Punishment": "Death or Imprisonment for Life or 10 Years + Fine"
+  },
+  {
+    "laws": "IPC_133",
+    "description": "Abetment of an assault by An officer, soldier, sailor Or airman on his superior officer, when in the execution of his office",
+    "Punishment": "3 Years + Fine"
+  },
+  {
+    "laws": "IPC_134",
+    "description": "Abetment of such assault, if the assault is committed",
+    "Punishment": "7 Years + Fine"
+  }]
